@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Thomas
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://www.google.com/imgres?q=dj%20khaled%20banner&imgurl=https%3A%2F%2Fstatic-prod.adweek.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fdj-khaled-home-brown-suit-page-2020-600x315.jpg&imgrefurl=https%3A%2F%2Fwww.adweek.com%2Fbrand-marketing%2Fhow-dj-khaled-has-made-confidence-a-brand-and-a-formula-for-outsize-success%2F&docid=gUePoDMUgKu8WM&tbnid=qigb2SDksQohHM&vet=12ahUKEwjOtYr8_9CHAxVgRPEDHeYLC9gQM3oECGgQAA..i&w=600&h=315&hcb=2&ved=2ahUKEwjOtYr8_9CHAxVgRPEDHeYLC9gQM3oECGgQAA)
 
 I'm Thomas from Germany. I have a tiny bit of experience in Python, and I just started learning Rust.
 
