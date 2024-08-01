@@ -3,7 +3,7 @@
 
 I'm Thomas from Germany. I have a tiny bit of experience in Python, and I just started learning Rust.
 
-Skills: tiny bit of Python / just started learing Rust
+
 
 - 🔭 I’m currently working on a GeoData wiper.
 
