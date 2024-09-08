@@ -4,7 +4,7 @@ I'm Thomas from Germany. I have a tiny bit of experience in Python, and I just s
 
 
 
-- 🔭 I’m currently working on a GeoData wiper.
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xThomate)  
 
